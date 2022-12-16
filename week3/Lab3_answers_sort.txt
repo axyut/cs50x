@@ -1,0 +1,19 @@
+//Sort1 (random) = 0.111sec
+//Sort2 (random) = 0.033sec
+//sort3 (random) = 0.103sec
+
+//sort1 (sorted) = 0.039
+//sort2 (sorted) = 0.060
+//sort3 (sorted) = 0.054sec
+
+sort1 uses: bubble sort
+
+How do you know?: It is fastest when sorting already closely sorted numbers.
+
+sort2 uses: Merge sort
+
+How do you know?: It was fastest when sorting random numbers
+
+sort3 uses: selection sort
+
+How do you know?: to slow on already sorted numbers
