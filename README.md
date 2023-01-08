@@ -1,5 +1,5 @@
 <h1 align="center"><a href="https://cs50.harvard.edu/x/2022/">Introduction to Computer Science</a></h1>
-  <p>Certificate : https://cs50.harvard.edu/certificates/fa9e1dea-ba07-4381-a699-3ed8c07f5030</p>
+  
 
   <p align="center">
     Completion of CS50x, including ten problem sets,
@@ -11,13 +11,13 @@ Awarded from Cambridge, Massachusetts
 
 ## Table of Contents
 
--   [Week 0](#about-the-project)
--   [Week 1](#about-the-project)
--   [Week 2](#about-the-project)
--   [Week 3](#about-the-project)
--   [Week 4](#about-the-project)
--   [Week 5](#about-the-project)
--   [Week 6](#about-the-project)
--   [Week 7](#about-the-project)
--   [Week 8](#about-the-project)
--   [Week 9](#about-the-project)
+-   [Week 0](#week-0)
+-   [Week 1](#week-1)
+-   [Week 2](#week-2)
+-   [Week 3](#week-3)
+-   [Week 4](#week-4)
+-   [Week 5](#week-5)
+-   [Week 6](#week-6)
+-   [Week 7](#week-7)
+-   [Week 8](#week-8)
+-   [Week 9](#week-9)
